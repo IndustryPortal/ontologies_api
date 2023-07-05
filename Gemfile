@@ -48,7 +48,7 @@ gem 'ncbo_annotator', git: 'https://github.com/ontoportal-lirmm/ncbo_annotator.g
 gem 'ncbo_cron', git: 'https://github.com/ontoportal-lirmm/ncbo_cron.git', branch: 'master'
 gem 'ncbo_ontology_recommender', git: 'https://github.com/ncbo/ncbo_ontology_recommender.git', branch: 'master'
 gem 'sparql-client', git: 'https://github.com/ncbo/sparql-client.git', branch: 'master'
-gem 'ontologies_linked_data', git: 'https://github.com/ontoportal-lirmm/ontologies_linked_data.git', branch: 'master'
+gem 'ontologies_linked_data', git: 'https://github.com/IndustryPortal/ontologies_linked_data.git', branch: 'master'
 
 # NCBO gems (unversioned)
 gem 'ncbo_resolver', git: 'https://github.com/ncbo/ncbo_resolver.git'
